@@ -1,0 +1,24 @@
+.main-heading{
+  color:purple;
+  background-color: #c7c7c7;
+  text-transform: uppercase;
+}
+.heading-art{
+  color:yellow;
+  background-color:purple;
+  text-transform: capitalize;
+}
+p{
+  font-size: 14px;
+  line-height: 1.25em;
+  background-color: #eeeeee;
+  text-align: justify;
+}
+.page-linck{
+  text-decoration: none;
+  text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
